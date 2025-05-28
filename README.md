@@ -33,7 +33,7 @@
 
 ## 🖼️ Screenshots
 
-![Dashboard](vibe-frontend/assests/dashboard.png)
+![Dashboard](assests/dashboard.png)
 
 ---
 
